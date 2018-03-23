@@ -1,0 +1,5 @@
+C:\Users\zenbo\Documents\Learning\designpatterns\code\Learning.DesignPatterns\DesignPatterns.Strategy\obj\Debug\DesignPatterns.Strategy.csproj.CoreCompileInputs.cache
+C:\Users\zenbo\Documents\Learning\designpatterns\code\Learning.DesignPatterns\DesignPatterns.Strategy\bin\Debug\DesignPatterns.Strategy.dll
+C:\Users\zenbo\Documents\Learning\designpatterns\code\Learning.DesignPatterns\DesignPatterns.Strategy\bin\Debug\DesignPatterns.Strategy.pdb
+C:\Users\zenbo\Documents\Learning\designpatterns\code\Learning.DesignPatterns\DesignPatterns.Strategy\obj\Debug\DesignPatterns.Strategy.dll
+C:\Users\zenbo\Documents\Learning\designpatterns\code\Learning.DesignPatterns\DesignPatterns.Strategy\obj\Debug\DesignPatterns.Strategy.pdb

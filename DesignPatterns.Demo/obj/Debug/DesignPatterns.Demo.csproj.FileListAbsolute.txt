@@ -1,0 +1,7 @@
+C:\Users\zenbo\Documents\Learning\designpatterns\code\Learning.DesignPatterns\DesignPatterns.Demo\bin\Debug\DesignPatterns.Demo.exe.config
+C:\Users\zenbo\Documents\Learning\designpatterns\code\Learning.DesignPatterns\DesignPatterns.Demo\bin\Debug\DesignPatterns.Demo.exe
+C:\Users\zenbo\Documents\Learning\designpatterns\code\Learning.DesignPatterns\DesignPatterns.Demo\bin\Debug\DesignPatterns.Demo.pdb
+C:\Users\zenbo\Documents\Learning\designpatterns\code\Learning.DesignPatterns\DesignPatterns.Demo\obj\Debug\DesignPatterns.Demo.csprojResolveAssemblyReference.cache
+C:\Users\zenbo\Documents\Learning\designpatterns\code\Learning.DesignPatterns\DesignPatterns.Demo\obj\Debug\DesignPatterns.Demo.csproj.CoreCompileInputs.cache
+C:\Users\zenbo\Documents\Learning\designpatterns\code\Learning.DesignPatterns\DesignPatterns.Demo\obj\Debug\DesignPatterns.Demo.exe
+C:\Users\zenbo\Documents\Learning\designpatterns\code\Learning.DesignPatterns\DesignPatterns.Demo\obj\Debug\DesignPatterns.Demo.pdb
